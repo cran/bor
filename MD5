@@ -1,0 +1,11 @@
+e409cd2f25dbcadbe12f71a84ed3006d *DESCRIPTION
+401bc5617dfc04457cb29beb57ff5fe0 *NAMESPACE
+f0d9a189ebe653314e17b520f6e06944 *NEWS.md
+ac9e7ff8b9e9717cb4c36b4914580ad2 *R/countb.R
+0edaa710f19cdc9d96116252c0137d70 *R/dtable.R
+61ed816a53551323d07d5b3aa10824e1 *R/ex_field_data.R
+211e0c42ed9cd204bbeb3ffdbd178bdc *README.md
+e0b465489d70ffcc9e3ee86528c25429 *data/ex_field_data.rda
+78cb4d0f6152db38423827cbb223e76f *man/countb.Rd
+85c2e2ab04f3193323237622ececac55 *man/dtable.Rd
+8ef7c5d1bcde0fa07c0f2abb92647915 *man/ex_field_data.Rd
